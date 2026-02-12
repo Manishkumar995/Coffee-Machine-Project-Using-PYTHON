@@ -7,7 +7,7 @@ The Coffee Machine Simulator is a command-line Python application that mimics th
 
 This project demonstrates strong foundational Python skills, logical thinking, and the ability to translate a real-life business process into a functional software solution.
 
-## Problem Statement
+## Problem Statement-
 Design a system that:
 - Offers multiple coffee options
 - Manages limited machine resources
