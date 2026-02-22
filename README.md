@@ -2,7 +2,7 @@
 
 # Coffee Machine Simulator – Python Project
 
-## Project Overview
+## Project Overview-
 The Coffee Machine Simulator is a command-line Python application that mimics the working of a real-world coffee vending machine. The program allows users to select a beverage, verifies ingredient availability, processes coin-based payments, calculates change, prepares the drink, and maintains a record of remaining resources and total profit.
 
 This project demonstrates strong foundational Python skills, logical thinking, and the ability to translate a real-life business process into a functional software solution.
